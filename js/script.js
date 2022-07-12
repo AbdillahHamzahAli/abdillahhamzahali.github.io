@@ -179,3 +179,13 @@ document.addEventListener("click", (e) => {
     toggleBodyScrolling();
   }
 });
+/*--------------------- Dark mode ------------------*/
+const checkbox = document.getElementById("checkbox");
+checkbox.addEventListener("change", () => {
+  const theme = document.body.getAttribute("data-theme");
+  if (theme === null || theme === "dark") {
+    document.body.setAttribute("data-theme", "light");
+  } else {
+    document.body.setAttribute("data-theme", "dark");
+  }
+});
