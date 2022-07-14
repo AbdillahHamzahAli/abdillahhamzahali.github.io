@@ -34,5 +34,14 @@
     "role": "front-end",
     "domain": "www.domain.com",
     "img": "./imgs/Contoh Project/flexbox-img-gallery.png"
+  },
+  {
+    "title": "Whack A Mole",
+    "description": "game pukul tikus tanah",
+    "created": "29 Jul 2022",
+    "teknologi": "Html, Css, Javascript",
+    "role": "front-end",
+    "domain": "www.domain.com",
+    "img": "./imgs/Contoh Project/Whack-A-Mole.png"
   }
 ]
