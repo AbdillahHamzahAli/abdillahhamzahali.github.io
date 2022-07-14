@@ -1,0 +1,38 @@
+[
+  {
+    "title": "404 Page",
+    "description": "Halaman untuk Error 404",
+    "created": "20 May 2022",
+    "teknologi": "Html, Css, Javascript",
+    "role": "front-end",
+    "domain": "www.domain.com",
+    "img": "./imgs/Contoh Project/error-404-page.png"
+  },
+  {
+    "title": "Drum Kit",
+    "description": "Bermain Drum menggunakan Keyboard",
+    "created": "26 May 2022",
+    "teknologi": "Html, Css, Javascript",
+    "role": "front-end",
+    "domain": "www.domain.com",
+    "img": "./imgs/Contoh Project/drum-kit.png"
+  },
+  {
+    "title": "Caculator",
+    "description": "Caculator menggunakan Javascript",
+    "created": "5 Jun 2022",
+    "teknologi": "Html, Css, Javascript",
+    "role": "front-end",
+    "domain": "www.domain.com",
+    "img": "./imgs/Contoh Project/caculator.png"
+  },
+  {
+    "title": "Image Gallery",
+    "description": "Image Gallery menggunakan flexbox",
+    "created": "3 Jun 2022",
+    "teknologi": "Html, Css, Javascript",
+    "role": "front-end",
+    "domain": "www.domain.com",
+    "img": "./imgs/Contoh Project/flexbox-img-gallery.png"
+  }
+]
