@@ -1,10 +1,3 @@
-/* ---------------- Page Loader ------------- */
-window.addEventListener("load", () => {
-  document.querySelector(".page-loader").classList.add("slide-out-right");
-  setTimeout(() => {
-    document.querySelector(".page-loader").style.display = "none";
-  }, 1000);
-});
 /*--------------------BG animation Effect----------------- */
 function bgAnimationItems() {
   const row = 7;
@@ -172,6 +165,7 @@ function changePortfolioItem(direction) {
     document.querySelector(".pp-overlay").classList.remove(direction);
   }, 1000);
 }
+
 /*-------------------- Toggle Contact Form -------------------- */
 document.addEventListener("click", (e) => {
   if (e.target.classList.contains("toggle-contact-form-btn")) {
