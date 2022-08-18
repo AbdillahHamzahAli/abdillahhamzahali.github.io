@@ -139,7 +139,7 @@ function sectionItem(item) {
         <p>Technologies Used - <span>${item.teknologi}</span></p>
         <p>Role - <span>${item.role}</span></p>
         <p>
-          View Online - <span><a href="#" target="_blank">${item.domain}</a></span>
+          View Online - <span><a href="${item.domain}" target="_blank">${item.domain}</a></span>
         </p>
       </div>
     </div>

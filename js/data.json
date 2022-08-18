@@ -1,5 +1,14 @@
 [
   {
+    "title": "Portfolio Tailwind",
+    "description": "Website portfolio yang saya buat menggunakan Tailwind CSS, bersama WPU di konten NGOBAR",
+    "created": "08 Aug 2022",
+    "teknologi": "Html, Css, Tailwind CSS ,Javascript",
+    "role": "front-end,tailwind",
+    "domain": "https://abdillahhamzahali.github.io/portfolio-tailwind/",
+    "img": "./imgs/Contoh Project/portfolio-tailwindcss.png"
+  },
+  {
     "title": "404 Page",
     "description": "Halaman untuk Error 404",
     "created": "20 May 2022",
