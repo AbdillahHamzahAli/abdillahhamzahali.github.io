@@ -112,7 +112,7 @@ window.addEventListener("load", async function () {
   }
 });
 function getData() {
-  return fetch("js/data.json")
+  return fetch("data/projects.json")
     .then((response) => response.json())
     .then((items) => items);
 }
